@@ -1,5 +1,5 @@
 # Play-of-the-Playoffs
-An NBA project built around statistical changes from the regular – post-season.
+An NBA project built around statistical changes from the regular – post-season powered by basketball reference (https://www.basketball-reference.com/)
 
 # Final Paper
 
